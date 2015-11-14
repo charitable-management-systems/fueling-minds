@@ -1,3 +1,30 @@
+deadline: 3/14/2016
+
+bp:
+  logoUrl: /images/BP_logo.svg
+  logoDesc: bp logo
+
+citgo:
+  logoUrl: /images/Citgo_logo.svg
+  logoDesc: citgo logo
+  
+marathon:
+  logoUrl: /images/Marathon_logo.svg
+  logoDesc: maarathon logo
+  
+mobil:
+  logoUrl: /images/MobilLogo.svg
+  logoDesc: Mobil logo
+
+shell:
+  logoUrl: /images/Shell_logo.svg
+  logoDesc: shell logo
+  
+  
+bannerUrl: /images/Road.png
+
+logoUrl: images/logo.svg
+
 about: "<h4>About The Program</h4><hr><div class='panel'><p>This program is dedicated to giving back to the communities in which Graham Enterprises, Inc and Graham C-Stores Company operate.  The program provides support to local youths by offering $2,000 scholarships to entering college freshmen.</p><p>Since its inception in 2012, The Fueling The Minds of The Future Scholarship Program has helped 150 students attend college, including 6 super-scholars who will receive support for up to four years of their undergraduate education.  To date, $310,000 has been provided in scholarships to academically strong students needing a little help to achieve their college goals.</p></div>"
 
 howTo: "<h4>How To Apply</h4><hr><div class='panel'><p>Begin your application by clicking the APPLY tab.</p><p>Upload a 500-750 word personal statement addressing all of the following questions:</p><ol><li>What have been the most important experiences during your high school years that have prepared you for college?</li><li>What do you wish to achieve from your college education?</li><li>Why should you be considered for a Fueling The Minds of The Future Scholarship?</li></ol><p>Mail - or have your school mail - an official high school transcript in an officially sealed envelope.</p><p>Provide a copy of your Student Aid Report (SAR), showing the Expected Family Contribution (EFC) as reported from the Free Application for Federal Student Aid (FAFSA).</p></div>"
