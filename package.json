@@ -1,0 +1,19 @@
+{
+  "name": "fueling-minds",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/charitable-management-systems/fueling-minds.git",
+  "author": "Greg Laubenstein <gjlaubenstein@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@bower_components/fastclick": "ftlabs/fastclick#>=0.6.11",
+    "@bower_components/foundation": "zurb/bower-foundation#~5.5.3",
+    "@bower_components/jquery": "jquery/jquery-dist#>=1.2",
+    "@bower_components/jquery-placeholder": "mathiasbynens/jquery-placeholder#~2.0.7",
+    "@bower_components/jquery.cookie": "carhartl/jquery-cookie#~1.4.0",
+    "@bower_components/modernizr": "Modernizr/Modernizr#2.8.3"
+  },
+  "engines": {
+    "yarn": ">= 1.0.0"
+  }
+}
