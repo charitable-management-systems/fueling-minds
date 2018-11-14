@@ -1,5 +1,9 @@
 deadline: 3/15/2019
 
+amoco:
+  logoUrl: /images/amoco_logo.png
+  logoDesc: amoco logo
+
 bp:
   logoUrl: /images/BP_logo.svg
   logoDesc: bp logo
