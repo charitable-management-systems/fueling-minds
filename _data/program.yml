@@ -24,6 +24,9 @@ shell:
   logoUrl: /images/Shell_logo.svg
   logoDesc: shell logo
 
+privacyPdfUrl: /images/pdf/privacy_policy.pdf
+termsPdfUrl: /images/pdf/terms_of_use.pdf
+
 
 bannerUrl: /images/Road.png
 
