@@ -10,7 +10,7 @@ title: Fueling The Minds of The Future
 email: your-email@domain.com
 description: Fueling The Minds of The Future Scholarship Program
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://fuelingminds.com" # the base hostname & protocol for your site
+url: "https://fuelingminds.com" # the base hostname & protocol for your site
 #url: http://localhost:4000
 logoUrl: images/logo.svg
 appUrl: https://application.fuelingminds.com/application/login
